@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Bole <bole@dajmi5.com>, 2017
+# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-03 02:37+0000\n"
-"PO-Revision-Date: 2017-05-03 02:37+0000\n"
-"Last-Translator: Bole <bole@dajmi5.com>, 2017\n"
+"POT-Creation-Date: 2017-11-22 01:45+0000\n"
+"PO-Revision-Date: 2017-11-22 01:45+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
 "Language-Team: Croatian (Croatia) (https://www.transifex.com/oca/teams/23907/hr_HR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -72,7 +73,7 @@ msgstr "Zadnji ažurirao"
 #. module: report_wkhtmltopdf_param
 #: model:ir.model.fields,field_description:report_wkhtmltopdf_param.field_report_paperformat_parameter_write_date
 msgid "Last Updated on"
-msgstr "Ažurirano"
+msgstr "Zadnje ažurirano"
 
 #. module: report_wkhtmltopdf_param
 #: model:ir.model.fields,field_description:report_wkhtmltopdf_param.field_report_paperformat_parameter_name
@@ -87,7 +88,7 @@ msgstr ""
 #. module: report_wkhtmltopdf_param
 #: model:ir.model,name:report_wkhtmltopdf_param.model_report
 msgid "Report"
-msgstr ""
+msgstr "Izvještaj"
 
 #. module: report_wkhtmltopdf_param
 #: model:ir.model.fields,help:report_wkhtmltopdf_param.field_report_paperformat_parameter_name
